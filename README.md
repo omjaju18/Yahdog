@@ -1,12 +1,10 @@
-# Yahdog
-Live Demo : https://yahdog.vercel.app/
+# Yahdog - A dog Adoption website using HTML,CSS and Bootstarp 5
 
-Using HTML, CSS and Boostrap
+##[Live Demo](https://yahdog.vercel.app/)
 
-•	Professionally designed and developed website for dog adoption.
+## Key Points: 
+- 🐶 Professionally designed and developed a website for dog adoption using HTML, CSS, and Bootstrap for sleek and modern styling. 🎨📱
 
-•	The website is built using CSS and Bootstrap for sleek and modern styling.
+- 🐾 Ensured complete responsiveness, allowing users to access the website seamlessly on any device or screen size. 🌐💻
 
-•	Ensured complete responsiveness, allowing users to access the website seamlessly on any device or screen size.
-
-•	It is an completely Front-End Website.
+- 🐕‍🦺 It is a completely Front-End Website, dedicated to promoting pet adoption and providing a user-friendly experience. 🐾🏠
